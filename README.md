@@ -1,6 +1,7 @@
 # nlp-verbal-probabilities
 Probing handling of verbal probabilities in NLP models
 
+The enclosed notebook contains the code to build the dataset.
 
 https://huggingface.co/datasets/sileod/probability_words_nli
 
