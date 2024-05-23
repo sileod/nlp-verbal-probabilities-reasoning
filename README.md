@@ -1,5 +1,5 @@
 # nlp-verbal-probabilities
-Probing handling of verbal probabilities in NLP models
+Probing reasoning with verbal probabilities in NLP models
 
 The enclosed notebook contains the code to build the dataset.
 
