@@ -1,4 +1,4 @@
-# nlp-verbal-probabilities
+# Natural Language reasoning with natural language probability expressions
 Probing reasoning with verbal probabilities in NLP models. We test probabilistic logical reasoning when using words estimative of probability (probably, surely...) in language models.
 
 The enclosed notebook contains the code to build the dataset.
